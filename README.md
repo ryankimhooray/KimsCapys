@@ -6,7 +6,7 @@ CAPYBARA
 
 ## Defense
 <p> Capybaras protect themselves in a different way than other animals do. If they hear danger coming, they will dive into the water and hide like 'cowards'. Their natural enemies include the anaconda and the jacare. Its worst enemies are the jaguar, puma, caiman and of course MAN.</p>
-!([https://blog.nature.org/wp-content/uploads/2020/02/tnc_17503055_preview_cropped-1260x708.jpg](https://blog.nature.org/wp-content/uploads/2020/02/tnc_17503055_preview_cropped-1260x708.jpg))
+!(/assets/images/https://blog.nature.org/wp-content/uploads/2020/02/tnc_17503055_preview_cropped-1260x708.jpg)
 
 
 
