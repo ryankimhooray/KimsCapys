@@ -13,7 +13,7 @@ I LOVE CAPYBARAS
 
 
 ## Swimming
-<p> Capybaras have webbed feet like frogs and ducks do, helping them to swim fast. Plus, their eyes, ears, and nostrils are on top of their head, which lets them stay mostly submerged for long periods of time. <i><strong>Splish Splosh!</strong></i> </p>
+<p> Capybaras have webbed feet like frogs and ducks do, helping them to swim fast. Plus, their eyes, ears, and nostrils are on top of their head, which lets them stay mostly submerged for long periods of time. <i><strong>Splish Splosh!</strong></i> (Mr. Marchant Fun Fact: in places where capybaras live naturally, its common to find teenagers peeing on capybaras (as a prank) since the capys enjoy flowing warm liquid on their bodies.)  </p>
 
 ![alt text](https://media.istockphoto.com/id/1201693169/photo/swimming-capybara-portrait.jpg?s=612x612&w=0&k=20&c=HU37T0VNhEWKhd92Gwc5TQhmo-LIHw8c45Hw3Hf4Spw=)
 
