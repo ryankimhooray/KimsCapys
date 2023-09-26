@@ -1,2 +1,3 @@
 # KimsCapys
 CAPYBARA
+theme: KimsCapys
